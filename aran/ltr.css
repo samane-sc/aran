@@ -1,0 +1,53 @@
+/*
+Theme Name: فروشگاه aran
+Theme URI: https://www.aran.com
+Author: Arani
+Author URI: https://www.aran.com
+Description:WordPress Course Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: aran
+*/
+
+body{
+    direction: ltr;
+    text-align: left;
+    font-family: inherit;
+}
+.nav-menu__items ul.menu li.menu-item-has-children .sub-menu{
+    text-align: left;
+}
+@media (min-width: 768px) {
+    #contact .contact-form:after {
+        left: auto;
+        right: -89px;
+    }
+}
+#blog .blog-item figcaption{
+    text-align: left;
+}
+#blog .blog-item figcaption h5{
+    text-align: left;
+}
+.nav-menu-con:after{
+    right: -95px;
+    left: auto;
+}
+@media (max-width: 767px){
+    .nav-menu-con:after {
+        right: -75px;
+    }
+}
+
+@media (max-width: 450px){
+    .nav-menu-con:after {
+        right: -67px;
+        left: auto;
+        top: -240px;
+        width: 350px;
+    }
+}
+#blog-sidebar .blog-post__posts a.blog-post__recent>div{
+    padding-left: .5rem;
+}

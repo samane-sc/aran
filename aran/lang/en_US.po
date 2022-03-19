@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aran/قالب شرکتی\n"
+"POT-Creation-Date: 2021-10-17 13:36+0330\n"
+"PO-Revision-Date: 2021-10-17 13:37+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:33 category.php:33 search.php:58 taxonomy-portfolio_cat.php:33
+msgid "نتیجه ای برای شما یافت نشد"
+msgstr "not found"
+
+#: inc/widgets-tpl.php:48 inc/widgets-tpl.php:111
+msgid "New Title"
+msgstr ""
+
+#: inc/widgets-tpl.php:51 inc/widgets-tpl.php:114
+msgid "عنوان:"
+msgstr "title:"
+
+#: index.php:40
+msgid "سرویس های ما"
+msgstr "our services"
+
+#: index.php:182
+msgid "وبلاگ"
+msgstr "blog"
+
+#: page-templates/contact.php:20
+msgid "تماس با ما:"
+msgstr "contact us:"
+
+#: page-templates/contact.php:27
+msgid "نام"
+msgstr "name"
+
+#: page-templates/contact.php:30
+msgid "ایمیل"
+msgstr "email"
+
+#: page-templates/contact.php:34
+msgid "نظر شما"
+msgstr "your massage"
+
+#: page-templates/contact.php:36
+msgid "ارسال"
+msgstr "send"
+
+#: page-templates/document.php:46
+msgid "موارد بیشتر"
+msgstr "more items"
+
+#: page-templates/service.php:42
+msgid "سرویس بیشتر"
+msgstr "more services"
+
+#: partials/footer-menu.php:6
+msgid "ارتباط با ما"
+msgstr "Get in Touch"
+
+#: partials/footer-menu.php:7
+msgid "برای ارتباط با ما وارد لینک های زیر شوید"
+msgstr "Get new customers orem keep your visitor attention people"
+
+#: search.php:12
+msgid "نتایج سرچ برای : "
+msgstr "results for :"
+
+#: single-portfolio.php:45
+msgid "اطلاعات"
+msgstr "information"
+
+#: single-portfolio.php:50
+msgid "دسته بندی"
+msgstr "category"
+
+#: single-portfolio.php:63
+msgid "موارد مرتبط"
+msgstr "related items"
+
+#. Theme Name of the plugin/theme
+msgid "aran/قالب شرکتی"
+msgstr "aran/business template"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.aran.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Course Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ararni"
+msgstr ""
